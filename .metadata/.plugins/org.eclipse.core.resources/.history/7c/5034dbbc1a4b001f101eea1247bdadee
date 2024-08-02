@@ -1,0 +1,44 @@
+package test240726.object1;
+
+import java.util.Scanner;
+
+public class Musicview {
+	private Scanner sc = new Scanner(System.in);
+	private MusicController mc = new MusicController();
+	
+	public void mainMenu() {
+		
+	}
+	
+	public void addList() {
+		
+	}
+	
+	public void addAtZero() {
+		
+	}
+	
+	public void printAll() {
+		
+	}
+	
+	public void searchMusic() {
+		
+	}
+	
+	public void removeMusic() {
+		
+	}
+	
+	public void setMusic() {
+		
+	}
+	
+	public void ascTitle() {
+		
+	}
+	
+	public void descSinger() {
+		
+	}
+}

@@ -1,0 +1,10 @@
+package t.t_02;
+
+import java.util.ArrayList;
+
+public class MyCollection {
+	
+	public void test() {
+		ArrayList<Fruit> list = new ArrayList<Fruit>();
+	}
+}
